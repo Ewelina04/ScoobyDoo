@@ -4,7 +4,7 @@ from psychopy import visual, event, core
 import pandas as pd
 import filterlib as flt
 import blink as blk
-#from pyOpenBCI import OpenBCIGanglion
+from pyOpenBCI import OpenBCIGanglion
 
 import pygame
 from pygame.locals import *
