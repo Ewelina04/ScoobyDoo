@@ -40,7 +40,7 @@ def blinks_detector(quit_program, blink_det, blinks_num, blink,):
                 
                 
 ####################################################
-    SYMULACJA_SYGNALU = True
+    SYMULACJA_SYGNALU = False
 ####################################################
     mac_adress = 'd2:b4:11:81:48:ad'
 ####################################################
