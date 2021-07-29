@@ -1,2 +1,3 @@
 # ScoobyDoo
-Projekt 2 - Komunikacja Człowiek Komputer
+Project 2 - Human Computer Communication lab
+Game with the use of EEG signal
